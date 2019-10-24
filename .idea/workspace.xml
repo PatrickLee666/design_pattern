@@ -1,7 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="067a7dff-050c-4c7c-ba37-7a3bef0c0390" name="Default Changelist" comment="" />
+    <list default="true" id="067a7dff-050c-4c7c-ba37-7a3bef0c0390" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/abstract_factory/AndroidFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/abstract_factory/AndroidOperationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/abstract_factory/AndroidUIController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/abstract_factory/IosFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/abstract_factory/IosOperationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/abstract_factory/IosUIController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/abstract_factory/OperationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/abstract_factory/SystemFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/abstract_factory/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/abstract_factory/UIController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/abstract_factory/WpFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/abstract_factory/WpOperationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/abstract_factory/WpUIController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/abstract_factory/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/easy/Circle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/easy/Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/easy/Shape.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/easy/ShapeFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/easy/ShapeFactory2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/easy/Square.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/easy/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/easy/Test2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/easy/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/method/GifReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/method/GifReaderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/method/JpgReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/method/JpgReaderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/method/PngReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/method/PngReaderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/method/Reader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/method/ReaderFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/create/factory/method/readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,12 +49,20 @@
       <list>
         <option value="FxmlFile" />
         <option value="Kotlin File" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1SbEkuoAitn1mUfQ5otBacYWeVs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
   </component>
@@ -34,7 +78,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.Test2">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
       <module name="design_pattern" />
@@ -45,6 +89,43 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.create.factory.easy.Test" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.create.factory.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.create.factory.easy.Test2" />
+      <module name="design_pattern" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.create.factory.easy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Main" />
+      <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Test2" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Test2" />
+        <item itemvalue="Application.Test" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -56,11 +137,22 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1571824042003</updated>
-      <workItem from="1571824045364" duration="1744000" />
+      <workItem from="1571824045364" duration="5254000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
